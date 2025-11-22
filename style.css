@@ -4,6 +4,11 @@ body {
   font-family: 'Poppins', sans-serif;
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
+}
+input, textarea, button {
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 /* Top banner */
