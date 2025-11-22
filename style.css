@@ -6,10 +6,7 @@ body {
   padding: 0;
   box-sizing: border-box;
 }
-input, textarea, button {
-    margin: 0 !important;
-    padding: 0 !important;
-}
+
 
 /* Top banner */
 .top-banner {
@@ -732,7 +729,6 @@ input, textarea, button {
   }
 
 }
-/* ============================== Footer Section ================================= */
 /* Footer Styling */
 .footer {
   background: #111;

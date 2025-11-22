@@ -27,4 +27,3 @@ document.querySelectorAll('.open-btn').forEach(btn => {
     document.getElementById('contactForm').style.display = 'block';
   });
 });
-
